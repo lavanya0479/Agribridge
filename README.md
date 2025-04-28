@@ -27,9 +27,10 @@ Agribridge is a full-stack web application designed to help farmers manage their
    git clone https://github.com/yourusername/agribridge.git
    cd agribridge
 2. **Install dependencies:**
+   ```bash
    cd frontend
    npm install
-
+   ```bash
    cd backend
    npm install
 3. **Set up environment variables:**
