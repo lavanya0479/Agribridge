@@ -35,7 +35,15 @@ Agribridge is a full-stack web application designed to help farmers manage their
    npm install
 3. **Set up environment variables:**
    Create a .env file in the backend and add the necessary configurations such as MongoDB URI and Firebase credentials.
+
+4. **Run the application:**
    
+    ```bash
+   cd frontend
+   npm run dev
+
+   cd backend
+   node index.js
 ## Usage 
    
 - Farmer Registration: Register by providing your email and other details. An OTP will be sent to your email for verification.
