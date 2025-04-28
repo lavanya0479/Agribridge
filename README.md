@@ -31,13 +31,12 @@ Agribridge is a full-stack web application designed to help farmers manage their
    cd frontend
    npm install
    
-   ```bash
    cd backend
    npm install
 3. **Set up environment variables:**
    Create a .env file in the backend and add the necessary configurations such as MongoDB URI and Firebase credentials.
    
-4. **Usage**
+## Usage 
    
 - Farmer Registration: Register by providing your email and other details. An OTP will be sent to your email for verification.
 
